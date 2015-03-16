@@ -110,7 +110,7 @@ occurrence found in array.
 
 
 
-### Current otions ###
+### Current options ###
 
 * After including JSArrayHelper.js JavaScript arrays will have options
 	
